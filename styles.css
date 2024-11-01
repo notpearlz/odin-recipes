@@ -1,0 +1,41 @@
+* {
+    font-family: 'Times New Roman', Arial, sans-serif;
+
+}
+.center{
+    text-align: center;
+}
+
+.title.header{
+    font-size: 50px;
+}
+
+.header{
+    background-color: #f7cde8;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.image{
+    width: 800px;
+    height: auto;
+}
+
+.section{
+    background-color: #f9f1f1;
+}
+.description{
+    font-size: 20px;
+    
+}
+
+.recipe{
+    font-size: 20px;
+
+}
+
+#reference{
+    font-size: 20px;
+    color: red;
+}
